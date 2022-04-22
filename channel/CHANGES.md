@@ -1,5 +1,12 @@
 # Changes
 
+## [1.6.0](https://github.com/googleapis/google-cloud-go/compare/channel/v1.5.0...channel/v1.6.0) (2022-04-22)
+
+
+### Features
+
+* **channel:** Add new enum value, new filter in ListCustomersRequest of Cloud Channel API ([7b1173d](https://github.com/googleapis/google-cloud-go/commit/7b1173d1ffed195c515b907b20dd1f86a9eef13a))
+
 ## [1.5.0](https://github.com/googleapis/google-cloud-go/compare/channel/v1.4.1...channel/v1.5.0) (2022-02-23)
 
 
